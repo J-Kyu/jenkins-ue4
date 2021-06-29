@@ -1,3 +1,1 @@
-set "str=%~1"
-cd C:\ARCHIVE\DIRECTORY
-"C:\Program Files\7-Zip\7z.exe" a PROJECT_NAME_%str%.zip C:\Builds\PROJECT_NAME\WindowsNoEditor\*
+tar -cvf  a.tar  --exclude=./VR_Multiplay/Binaries/Win64/VR_MultiplayServer.pdb "E:\kyu_shitcreep_Amolang_Dev_9203\VR_Multiplay\Build\WindowsNoEditor"
