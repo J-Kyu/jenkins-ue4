@@ -1,2 +1,2 @@
-rem "C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\UnrealBuildTool.exe" -projectfiles -project="C:\Source\PROJECT_NAME\PROJECT_NAME.uproject" -game -rocket -progress
-"E:\UE4_26\Engine\Binaries\DotNET\UnrealBuildTool.exe" -projectfiles -project="E:\kyu_shitcreep_Amolang_Dev_9203\VR_Multiplay\VR_Multiplay.uproject" -game -rocket -progress
+rem "C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\UnrealBuildTool.exe" -projectfiles -project="C:\Source\PROJECT_NAME\PROJECT_NAME.uproject" -game -rocket - 
+"C:\UnrealEngine\Engine\Binaries\DotNET\UnrealBuildTool.exe" -projectfiles -project="D:\vr_build_AmolangDev\VR_Multiplay\VR_Multiplay.uproject" -game -rocket -progress

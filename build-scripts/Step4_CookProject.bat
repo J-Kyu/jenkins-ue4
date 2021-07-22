@@ -2,4 +2,4 @@ rem default "C:\Program Files\Epic Games\UE_4.17\Engine\Build\BatchFiles\RunUAT.
 rem Win64: "E:\UE4_26\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun -project="E:\kyu_shitcreep_Amolang_Dev_9203\VR_Multiplay\VR_Multiplay.uproject" -noP4 -platform=Win64 -clientconfig=Development -cook -allmaps -NoCompile -stage -pak -archive -archivedirectory="E:\kyu_shitcreep_Amolang_Dev_9203\VR_Multiplay\Build"
 
 rem Linux
-"E:\UE4_26\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun -project="E:\kyu_shitcreep_Amolang_Dev_9203\VR_Multiplay\VR_Multiplay.uproject" -noP4 -build -cook -compressed -stage -noclient -server -serverplatform=Linux -serverconfig=Development -pak -archive -archivedirectory="E:\kyu_shitcreep_Amolang_Dev_9203\VR_Multiplay\Build"
+"C:\UnrealEngine\Engine\Build\BatchFiles\RunUAT.bat" BuildCookRun -project="D:\vr_build_AmolangDev\VR_Multiplay\VR_Multiplay.uproject" -noP4 -build -cook -compressed -stage -noclient -server -serverplatform=Linux -serverconfig=Development -pak -archive -archivedirectory="D:\vr_build_AmolangDev\VR_Multiplay\Build"
