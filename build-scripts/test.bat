@@ -1,0 +1,3 @@
+rem test
+
+echo %BUILD_NUMBER% %JOB_NAME%  %JENKINS_URL% %WORKSPACE%

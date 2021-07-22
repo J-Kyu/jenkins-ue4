@@ -1,1 +1,1 @@
-tar -cvf  "E:\kyu_shitcreep_Amolang_Dev_9203\VR_Multiplay\Build\Win64-Client.tar"  --exclude=./VR_Multiplay/Binaries/Win64/VR_Multiplay.pdb "E:\kyu_shitcreep_Amolang_Dev_9203\VR_Multiplay\Build\WindowsNoEditor"
+tar -cvf  "D:\vr_build_AmolangDev\VR_Multiplay\Build\WindowClient.tar"  --exclude=./VR_Multiplay/Binaries/Win64/VR_MultiplayServer.pdb "D:\vr_build_AmolangDev\VR_Multiplay\Build\WindowWindowsNoEditor"
