@@ -14,7 +14,7 @@ pipeline {
 					    have: true,
 					    quiet: true
 					    ),
-					source: streamSource('//VRBase/Amolang_Dev'
+					source: streamSource('//'
 					) 
 				)
             }
@@ -59,7 +59,7 @@ pipeline {
     }
     post{
         always{
-            archiveArtifacts artifacts: 'VR_Multiplay\\Build\\WindowClient.tar', fingerprint: true
+            archiveArtifacts artifacts: '', fingerprint: true
         }
     }
 }
