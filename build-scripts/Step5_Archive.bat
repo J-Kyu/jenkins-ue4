@@ -1,1 +1,2 @@
-tar -cvf  %WORKSPACE%\VR_Multiplay\Build\LinuxServer.tar  --exclude=./VR_Multiplay/Binaries/Linux/VR_MultiplayServer.debug %WORKSPACE%\VR_Multiplay\Build\LinuxServer
+cd /d %WORKSPACE%\VR_Multiplay\Build
+tar -cvf  .\LinuxServer.tar  --exclude=./LinuxServer/VR_Multiplay/Binaries/Linux/VR_MultiplayServer.debug .\LinuxServer
